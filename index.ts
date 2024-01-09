@@ -1,2 +1,2 @@
-const names:string=("Ahmer Ali Rafique ");
-console.log("name : ", names);
+const number:number= 786;
+console.log("perfect  number : ", number);

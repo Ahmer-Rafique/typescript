@@ -1,3 +1,3 @@
-const names = ("Ahmer Ali Rafique ");
-console.log("name : ", names);
+const number = 786;
+console.log("perfect  number : ", number);
 export {};
